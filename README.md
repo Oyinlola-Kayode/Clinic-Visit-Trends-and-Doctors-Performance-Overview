@@ -120,7 +120,7 @@ The dashboard offers a holistic view of patient behavior and satisfaction throug
   Balanced gender distribution indicates fair accessibility to healthcare services.
 
 - **Satisfaction by Doctor:**  
-  **Dr. Fumi** and **Dr. Grace** recorded the highest satisfaction averages, demonstrating effective patient communication and treatment approaches.
+  **Dr. Funmi** and **Dr. Grace** recorded the highest satisfaction averages, demonstrating effective patient communication and treatment approaches.
 
 ---
 
@@ -143,7 +143,7 @@ The dashboard offers a holistic view of patient behavior and satisfaction throug
 
 ---
 
-![my visual] (visual/Clinic_Visit_Trends_and_Doctors_Performance_Overview.jpeg)
+![my visual](visual/Clinic_Visit_Trends_and_Doctors_Performance_Overview.jpeg)
 
 ##  Recommendations (Prioritized)
 

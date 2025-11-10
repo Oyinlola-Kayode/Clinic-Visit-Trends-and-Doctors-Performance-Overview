@@ -1,0 +1,2 @@
+# Clinic-Visit-Trends-and-Doctors-Performance-Overview
+This project exemplifies data-driven healthcare decision-making using Excel as a complete analytical ecosystem. From cleaning to visualization, every stage was handled within Excel showcasing technical depth.  The insights generated provide a clear roadmap for improving patient satisfaction, doctor efficiency, and healthcare delivery planning.

@@ -127,7 +127,7 @@ The dashboard offers a holistic view of patient behavior and satisfaction throug
 ## 📈 Results (Key Findings)
 
 1. **Doctor Performance:**  
-   **Dr. Fumi** and **Dr. Grace** achieved the highest satisfaction ratings, reflecting outstanding patient experience delivery.
+   **Dr. Funmi** and **Dr. Grace** achieved the highest satisfaction ratings, reflecting outstanding patient experience delivery.
 
 2. **Treatment Effectiveness:**  
    Preventive and follow-up treatments scored the highest satisfaction — proactive care leads to better perceptions.
@@ -142,6 +142,8 @@ The dashboard offers a holistic view of patient behavior and satisfaction throug
    Patients with mild conditions were more satisfied, suggesting improvements in waiting time and care for severe cases could boost overall satisfaction.
 
 ---
+
+![my visual] (visual/Clinic_Visit_Trends_and_Doctors_Performance_Overview.jpeg)
 
 ##  Recommendations (Prioritized)
 
